@@ -26,3 +26,6 @@ syntax on
 
 " Allow mouse clicks
 set mouse=a
+
+" Do not save backup files.
+set nobackup
